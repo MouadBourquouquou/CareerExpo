@@ -97,7 +97,7 @@ export default function Home({ onAdminLogin }) {
     { 
       name: "Abdellah Tajer", 
       title: "Professeur assistant à l'École nationale des Sciences Appliquées de Marrakech", 
-      photo: "/Jury/Jury2.jpeg",
+      photo: "/Jury/Jury2.jpeg" ,
       linkedin: "https://www.linkedin.com/in/abdellah-tajer-744047155/"
     },
     { 
